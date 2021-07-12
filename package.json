@@ -1,6 +1,6 @@
 {
   "name": "morseit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A morse code generator (English to morse code)",
   "main": "index.js",
   "scripts": {
