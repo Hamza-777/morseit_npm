@@ -1,0 +1,25 @@
+{
+  "name": "morseit",
+  "version": "1.0.0",
+  "description": "A morse code generator (English to morse code)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-777/morseit_npm.git"
+  },
+  "keywords": [
+    "morseit",
+    "morse",
+    "code",
+    "morse code"
+  ],
+  "author": "Hamza Rarani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hamza-777/morseit_npm/issues"
+  },
+  "homepage": "https://github.com/Hamza-777/morseit_npm"
+}
